@@ -1,0 +1,9 @@
+hello world
+
+git init
+git add filename
+git config user.name "username" 
+git config user.mail "mail"
+git commit -m "msg"
+
+git checkout "gitid"
